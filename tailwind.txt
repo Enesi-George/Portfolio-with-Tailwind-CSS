@@ -1,0 +1,2 @@
+>>npm i tailwindcss -g
+>> npx tailwindcss init
